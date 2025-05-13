@@ -1,0 +1,17 @@
+{
+  "name": "gta-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "axios": "^1.9.0",
+    "dayjs": "^1.11.13",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "rss-parser": "^3.13.0"
+  }
+}
